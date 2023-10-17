@@ -9,8 +9,6 @@ Este projeto tem como objetivo explorar e demonstrar as novas funcionalidades in
 - [Instalação e Configuração](#instalação-e-configuração)
 - [Executando o Projeto](#executando-o-projeto)
 - [Contribuições](#contribuições)
-- [Licença](#licença)
-- [Contato](#contato)
 
 ## Sobre o Projeto
 
